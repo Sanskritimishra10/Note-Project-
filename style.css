@@ -1,0 +1,20 @@
+/* .container{
+   background-attachment: fixed;
+} */
+body{
+    background-color: cadetblue;
+}
+.navbar{
+    height: 50%;
+    font-size: 20px;
+}
+.navbar-brand
+{
+    font-size: 20px;
+}
+a.navbar-brand:hover{
+   background-color:cadetblue;
+}
+a.nav-link:hover{
+   background-color: cadetblue;
+}
